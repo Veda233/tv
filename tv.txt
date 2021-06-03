@@ -1,3 +1,4 @@
+台灣,#genre#
 CNN,P2p://ns2.hellotvvod.com:9906/4d63a9ae6f3e40be99ad3cad2a498073
 民視,P2p://ns2.hellotvvod.com:9906/3a9baeedc3d0425d954e4f3f16d81c50
 人間衛視,P2p://ns2.hellotvvod.com:9906/e105c188834e41e5b9c588672853a25c
